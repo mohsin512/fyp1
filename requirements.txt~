@@ -1,3 +1,4 @@
+pip install whitenoise
 bob-builder==0.0.5
 boto==2.45.0
 docopt==0.6.2
