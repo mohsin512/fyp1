@@ -1,1 +1,1 @@
-web: gunicorn FYPProjectAPI.wsgi 
+web: python manage.py runserver
