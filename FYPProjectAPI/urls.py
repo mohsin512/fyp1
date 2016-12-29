@@ -23,7 +23,7 @@ urlpatterns = (
     
     
    
-    url(r'^admin/', admin.site.urls),
+    url(r'^', admin.site.urls),
     url(r'^input/', views.input,name='input'),
     url(r'^output/', views.output,name='outputoutput'),
 )
